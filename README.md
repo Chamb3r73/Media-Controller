@@ -5,3 +5,4 @@ Uses 4 keyboard switches for forwards, back, play/pause and stop, as well as a p
 The key switches are each wired by direct wiring rather than a matrix, since there's only four. See the wiring diagram for visual details.
 
 To use, download the .hex file and flash via Teensy Loader.
+To edit, download the .ino file from the Source Code folder, and adjust as needed
